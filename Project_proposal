@@ -1,5 +1,28 @@
 Embedded Building Light Scheduler 
+Light scheduler allows us to set the time at which lights for a huge building like an university or an entire MNC can be operated. 
+An individual could control the schedule of light controlling by a graphic user interface enabled on a raspberry pi. Apart from this by using PIL sensor, the lights can be controlled only by human motion in a room. 
+The previously proposed light scheduler is precisely meant for home automation for a weekly schedule. This limits the building size for which propose the concept of a embedded building light scheduler, with this
+the option of automatic mode is also proposed that would turn the light on/off depending if a human enters or leaves a room.
 
-Embedded Smart Gate
+
+Embedded E-Gate
+E-Gate uses the technology of facial recognition and fingerprint recognition to verify a person’s identity priorly at an airport. 
+We would try to implement a cost-effective e-gate that could perform the same operations using python and raspberry pi.
+In places like government gatherings, immigration purposes, criminal background checks this is an extremely efficient way of recording 
+the data. 
+The data will be stored in cloud and as per the requirement of the organization’s  task , it shall be verified. 
+Using Raspberry pi, many different functionalities can be added on the project like -- sound sample recording,iris recognition.
+Smaller Organizations can use this to store their employees vital information in a smaller budget when compared to systems available 
+that are much higher in cost. 
+
 
 IoT based Server Temperature Monitor 
+A server temperature monitor is a device that raises alerts as and when the temperature of the server room goes beyond the 
+threshold and could be a potential threat.
+The alert sends a notification to the concerned person’s mobile and email. 
+Depending on the extent to which the temperature is varied , a notification is also sent to the team that could 
+immediately take steps to prevent any massive damages to the server room. 
+All the previous available systems for server temperature monitor are very expensive. We intend to make a server monitor 
+in a much more economical budget, so that even smaller startups and companies can make use of it. 
+
+
